@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python /opt/server/app.py
+python3 /opt/server/app.py
